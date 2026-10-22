@@ -1,0 +1,16 @@
+/* Categorys */
+#cat-ul .img-ct:before, .sc-w .img-ct:before{padding-top: 100%}
+/* Variations */
+.imgswatches .img-ct:before{padding-top: 100%}
+/* Artikel */
+.box-last-seen .img-ct:before, .ar-ct-m .ar-ct:before, .col-prd .img-ct:before, #product-configurator .img-ct:before, .p-c .img-ct:before, .product-gallery .img-ct:before, .cols-img .img-ct:before, .img-col .img-ct:before, .box-wishlist a:first-child .img-ct:before, .cpr-f .img-w .img-ct:before{padding-top: 100%}
+/* Hersteller */
+#cat-ul .mm-manu .img-ct:before, #manu-row .img-ct:before, #man-sl .img-ct:before, .img-manu.img-ct:before{padding-top: 33.33%;}
+/* Merkmale */
+.box-filter-characteristics .img-ct:before{padding-top: 100%}
+/* Merkmalwert */
+.product-attributes .img-ct:before, .box-filter-characteristics ul .img-ct:before{padding-top: 100%}
+/* Blog */
+#nw-ct .img-ct.rt4x3:before, .pn-news .img-ct:before{padding-top: 75%}
+/* Blog Kategorie*/
+.blog-cat .img-ct:before{padding-top: 33.33%}
